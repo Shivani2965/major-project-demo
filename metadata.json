@@ -1,0 +1,9 @@
+{
+  "name": "AI IT Helpdesk Copilot",
+  "description": "Enterprise AI-assisted IT helpdesk and smart ticketing system for seamless issue resolution, intelligent routing, and IT support operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
